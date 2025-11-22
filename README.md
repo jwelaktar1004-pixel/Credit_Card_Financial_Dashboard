@@ -1,8 +1,6 @@
 Portfolio Project - 
 
 # Credit Card Weekly Dashboard – Power BI
-## Objective
-To create a real-time, interactive Power BI dashboard that tracks weekly credit card performance metrics using SQL data.
 
 ## Tools Used
 - Excel
@@ -10,14 +8,27 @@ To create a real-time, interactive Power BI dashboard that tracks weekly credit 
 - MySQL
 - DAX
 
-## Key Insights
-- Total Revenue: $57M
-- Total Interest: $8M
-- Total Transaction Amount: $46M
-- Blue & Silver Cards → 93% of total revenue
-- TX, NY & CA → 68% revenue contribution
-- Activation Rate: 57.5%
-- Delinquency Rate: 6.06%
+Top 10 Insigts : 
+
+Graduate customers generate the highest revenue across both genders.
+
+Male customers consistently contribute more revenue than female customers in every education group.
+
+High School and Graduate segments form the core mid-tier revenue drivers.
+
+Uneducated and Unknown education groups still show strong revenue, indicating untapped segmentation opportunities.
+
+North zone markets deliver the highest revenue compared to Central and South zones.
+
+Ahmedabad and Delhi NCR are the top-performing revenue markets.
+
+Mumbai in the Central zone achieves the highest profit margins across multiple product codes.
+
+Certain product codes (e.g., Prod232, Prod261) consistently deliver margins above 38–40%.
+
+Specific customers like Electricalsquipo Stores and Premium Stores repeatedly appear in high-margin transactions.
+
+Revenue distribution shows strong geographic disparities, indicating the need for region-specific strategy optimization.
 
 ## Dashboard Sections
 1. Customer Overview
