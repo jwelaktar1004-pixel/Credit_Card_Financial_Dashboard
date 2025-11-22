@@ -8,6 +8,8 @@ Portfolio Project -
 - MySQL
 - DAX
 
+Power Bi Service Link : https://app.powerbi.com/links/tN0K2B8roI?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare&bookmarkGuid=80f47d5c-c32c-4203-a1da-70e8bff86c5e
+
 Top 10 Insigts : 
 
 Graduate customers generate the highest revenue across both genders.
